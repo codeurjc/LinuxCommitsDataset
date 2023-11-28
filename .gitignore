@@ -1,1 +1,3 @@
 linux-commits-2023-11-12.json
+*.log
+.ipynb_checkpoints/
