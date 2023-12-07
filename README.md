@@ -1,10 +1,10 @@
 # Dataset of Linux Commits
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10278756.svg)](https://doi.org/10.5281/zenodo.10278756)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10287486.svg)](https://doi.org/10.5281/zenodo.10287486)
 
 This is the reproduction package for the paper "A dataset of Linux Kernel commits", submitted to the Data and Tools Showcase track of the International Conference on Mining Software Repositories 2024.
 
-The dataset consists of 3 files hosted on [Zenodo](https://doi.org/10.5281/zenodo.10278756):
+The dataset consists of 3 files hosted on [Zenodo](https://doi.org/10.5281/zenodo.10287486):
 * `linux-2023-11-12.tar.gz` : Compressed directory (using tar) of the linux git repository which was used to obtain commit information with Perceval.
 * `linux-commits-2023-11-12.json.gz` : Commits file, as produced by Percecal, with one JSON document per line, each one corresponding to one commit.
 - `bfc_bic.csv`: List with all Bug-Fixing Commits (BFC) and Bug-Introducing Commits (BIC) pairs (links) obtained from the previous artifact.
