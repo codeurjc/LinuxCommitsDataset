@@ -3,3 +3,4 @@ linux-commits-2023-11-12.json
 .ipynb_checkpoints/
 .vscode/
 notebooks/linux/
+*.pdf
